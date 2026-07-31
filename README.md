@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohanud4/Leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Rohanud4/Leetcode-solution/tree/master/0010-regular-expression-matching) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohanud4/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Rohanud4/Leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Rohanud4/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Rohanud4/Leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Rohanud4/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 ## Stack
 |  |
