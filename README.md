@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rohanud4/Leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Rohanud4/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [1220-count-vowels-permutation](https://github.com/Rohanud4/Leetcode-solution/tree/master/1220-count-vowels-permutation) |
 ## Stack
 |  |
 | ------- |
